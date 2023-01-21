@@ -1,0 +1,10 @@
+{
+    "wordFrequency":1,
+    "replaceL":0.5,
+    "replaceR":0.5,
+    "replaceFer":true,
+    "replaceFor":true,
+    "replaceOw":true,
+    "uwuFrequency":1,
+    "replaceUwuWithOwo":0
+}
